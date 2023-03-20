@@ -89,7 +89,7 @@ section::before
     z-index: 1000;
 }
 
-section img
+#star
 {
     position: absolute;
     top: 0;
