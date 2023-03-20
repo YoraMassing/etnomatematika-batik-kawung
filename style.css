@@ -121,7 +121,6 @@ dari warna biru tua menuju transparant
 */
     z-index: 1000;
 }
-
 section img
 {
     position: absolute;
@@ -138,6 +137,7 @@ tombol2 di header/atas (blm tau apa relevansinya
 karena letak coding ini bukan di bagian tombol
 explore tp di img
 */
+}
 
 #text
 /* ngedit teks judul
@@ -155,6 +155,7 @@ kalo bagian itu dihilangin tulisannya jadi lebih gede
 (7.5vw kegedean jadinya pake 6vw aja. hehehe)
 */
 }
+
 #btn
 /* ngedit teks dengan id btn
 kalo id diganti class nanti font, color, dan background
@@ -187,8 +188,4 @@ kalo dibuat -100px nanti tulisannya malah ke atas
     margin-bottom: 10px;
     color: #fff;
 }
-.sec p
-{
-    margin-bottom: 10px;
-    color: #fff;
-}
+
