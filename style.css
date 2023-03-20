@@ -122,6 +122,23 @@ dari warna biru tua menuju transparant
     z-index: 1000;
 }
 
+section img
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+/* pointer events membuat
+ketika di arahkan kursor ke bagian explore
+jadi berubah ke bentuk gambar sama kek
+tombol2 di header/atas (blm tau apa relevansinya
+karena letak coding ini bukan di bagian tombol
+explore tp di img
+*/
+
 #text
 /* ngedit teks judul
 */
